@@ -4,7 +4,7 @@ date = "2021-05-05"
 draft = false
 pinned = false
 tags = []
-image = "nummer-4.jpg"
+image = "dsc_0082-klein.jpg"
 description = "Eine Ruine aus Karton hergestellt. Ich habe verschiedene Lichteffekte ausprobiert, um das es eine düstere Stimmung auswirkt dem Betrachter. "
 footnotes = ""
 +++
