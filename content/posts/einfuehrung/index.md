@@ -10,4 +10,4 @@ footnotes = ""
 +++
 Ich habe gelernt ein Model herzustellen aus Karton. Dabei habe ich einzelne Teile mit Japanmesser geschnitten und aufgeklebt zusammen. Ich habe verschiede Lampe mit Farbigen Blättern verwendet, um die Lichtstrahlen zu verändern. 
 
-![Fotos mit Rahmen habe ich gemacht. Ich habe verschiede ISO werte verwendet und versucht immer einen Rahmen zu haben ](nummer-4.jpg "Rahmen in der Umgebung")
+![Fotos mit Rahmen habe ich gemacht. Ich habe verschiede ISO werte verwendet und versucht immer einen Rahmen zu haben ](dsc_0082-klein.jpg "Rahmen in der Umgebung")
